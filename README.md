@@ -17,11 +17,11 @@
     - Notice [country-specific information](https://www.uni-hamburg.de/en/campuscenter/bewerbung/international/studium-mit-abschluss/anerkennung-auslaendischer-schulbildung/10-laenderhinweise.html)
     - Notice [academic aptitude
       test](https://www.uni-hamburg.de/en/campuscenter/bewerbung/international/studium-mit-abschluss/studierfaehigkeitstest.html) - this can raise chances to get accepted
-    - You cann collect bonus-points with good language certificates and other
+    - You can collect bonus-points with good language certificates and other
       stuff ([bonus
       points](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/formulare-informationsmerkblaetter/zulassungskriterien-bewerbung-nicht-eu.pdf))
     - Notice [Pre-semester preparatory course for international
-      students](https://www.uni-hamburg.de/en/campuscenter/studienangebot/international/propaedeutikum.html) - It helps to prepare for studying here and gives you a bonus. Also notice that the requirements for the german language certificate that you need for the preparatory course itself  are lower than the requirements to study. However you can use the successfull participation in the preparatory course as a proof of sufficient knowledge of german language if your grade in the german course there is "good" or better.
+      students](https://www.uni-hamburg.de/en/campuscenter/studienangebot/international/propaedeutikum.html) - It helps to prepare for studying here and gives you a bonus. Also notice that the requirements for the german language certificate that you need for the preparatory course itself  are lower than the requirements to study. However you can use the successfull participation in the preparatory course as a proof of sufficient knowledge of german language to study if your grade in the german course there is "good" or better.
 
 3. Application
 
