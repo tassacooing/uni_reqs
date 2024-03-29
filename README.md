@@ -27,6 +27,9 @@
 
     - Its an online form, just see on the website
 
+4. [Further help and consultation
+   hours](https://www.uni-hamburg.de/en/campuscenter/studienorientierung/studienorientierung-fuer-internationale.html)
+
 ### Specific information for B.A. Bewegungswissenschaft
 Requirements are:
 
@@ -36,4 +39,18 @@ Requirements are:
 - English B2
 
 For the application you have to go the normal process (see the information
-above). Furthermore you need to choose a minor subject because this B.A. at itself is not counted as full studies. You can find those subjectes [here](https://www.uni-hamburg.de/en/campuscenter/studienangebot.html), where is a "yes" in the column "as MS". See also the [information for minor subjects](https://www.uni-hamburg.de/campuscenter/studienangebot/nebenfaecher.html). Look up the following link for [general information](https://www.uni-hamburg.de/en/campuscenter/studienangebot/studiengang.html?1029333927) for B.A. Bewegungswissenschaft. You'll find there further links and information.  
+above). Furthermore you need to choose a minor subject because this B.A. at itself is not counted as full studies. You can find those subjectes [here](https://www.uni-hamburg.de/en/campuscenter/studienangebot.html), where is a "yes" in the column "as MS". See also the [information for minor subjects](https://www.uni-hamburg.de/campuscenter/studienangebot/nebenfaecher.html). Look up the following link for [general information](https://www.uni-hamburg.de/en/campuscenter/studienangebot/studiengang.html?1029333927) for B.A. Bewegungswissenschaft. You'll find there further links and information.
+
+For specific information contact the [academic office](https://www.bw.uni-hamburg.de/en/studium/studien-und-pruefungsbuero.html).
+
+### Pre-semester preparatory course ([pre-course](https://www.uni-hamburg.de/en/campuscenter/bewerbung/international/propaedeutikum.html))
+Requirements are:
+
+- higher education entry qualification reviewed (see above information, its the
+  same stuff as for the normal application process)
+- German language skills (there are kinda the same tests as you see above but
+  lower requirements. See also the information I gave above)
+- application about the usual application process (see above too)
+
+Application is from 01.12. - 15.01. and the semester is from March to June/July.
+See also [info-pdf](https://www.uni-hamburg.de/en/campuscenter/bewerbung/international/propaedeutikum/flyer-pre-semester-preparatory-course-Hamburg-English.pdf).
